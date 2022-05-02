@@ -1,4 +1,4 @@
 # cse210-01
 Solo Code Submission: Tic-Tac-Toe
 
-Comment to be added to the reposition.
+Comment to be added to the repository.
